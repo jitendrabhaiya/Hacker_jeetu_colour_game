@@ -1,2 +1,2 @@
-# Hacker_jeetu_colour_game
-Jeetu Colour Trading APK Auto Builder
+# Jeetu Colour Trading App
+This is a GitHub Actions-enabled Android project to build APK automatically.
